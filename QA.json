@@ -1,0 +1,26 @@
+{
+  "template": "1.3.0",
+  "html_sha256": "dbb446fffdd2ee25910efc8dc970e725d3381ce098aa3aaaf4dd4dc2a00bebc4",
+  "html_bytes": 367734,
+  "trades": 246,
+  "holders_sample": 100,
+  "pools": 8,
+  "snapshot_errors": [],
+  "history_complete": false,
+  "checked_domain_wallets": 21,
+  "checked_fragment_wallets": 13,
+  "python_tests": 17,
+  "javascript_tests": 15,
+  "responsive_widths": [
+    360,
+    390,
+    768,
+    1280
+  ],
+  "horizontal_overflow": false,
+  "holders_expand_collapse": "10/20/10 verified",
+  "languages": "RU/EN verified",
+  "TON_Storage": "not_published",
+  "scheduler": "prepared_not_deployed",
+  "note": "Domain/Fragment ownership checks are incremental. Snapshot has no section errors; annual trade history remains incomplete."
+}
